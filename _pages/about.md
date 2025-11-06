@@ -27,6 +27,6 @@ latest_posts:
 I’m a third-year Ph.D. student in Electrical Computer Engineering at University of Texas at Austin, advised by Prof. David Z. Pan.  
 My research focuses on **generative AI** for real-world engineering problems, including work in **electronic design automation (EDA)**.
 
-Previously, I received the B.S. in ECE from Seoul National University in 2023, where I worked on ASIC design as an undergraduate intern with Prof. Jaeha Kim.
+Previously, I received the B.S. in ECE from Seoul National University with highest honor, in 2023. I worked on ASIC design as an undergraduate intern with Prof. Jaeha Kim.
 
 **Outside the lab:** I enjoy reading and learning new things — and I also love singing and working out!
