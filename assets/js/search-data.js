@@ -384,8 +384,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-am-starting-my-ph-d-at-ut-austin-advised-by-prof-david-z-pan",
-          title: 'I am starting my Ph.D. at UT Austin, advised by Prof. David Z....',
+            },},{id: "news-i-am-starting-my-ph-d-at-ut-austin",
+          title: 'I am starting my Ph.D. at UT Austin!',
           description: "",
           section: "News",},{id: "news-my-first-first-author-paper-is-accepted-at-iccad-2025",
           title: 'My first first-author paper is accepted at ICCAD 2025!',
