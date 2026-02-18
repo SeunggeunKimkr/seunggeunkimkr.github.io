@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am starting my Ph.D. at UT Austin, advised by Prof. David Z. Pan.
+I am starting my Ph.D. at UT Austin!

@@ -24,9 +24,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 ### Hi, I’m Seunggeun 👋
-I’m a third-year Ph.D. student in Electrical Computer Engineering at University of Texas at Austin, advised by Prof. David Z. Pan.  
-My research focuses on **generative AI** for real-world engineering problems, including work in **electronic design automation (EDA)**.
+I’m a third-year Ph.D. student in Electrical & Computer Engineering at The University of Texas at Austin, advised by Prof. Adam Klivans.  
+My research focuses on **generative AI (especially diffusion models)** for real-world engineering problems, including work in **protein design**.
 
-Previously, I received the B.S. in ECE from Seoul National University with highest honor, in 2023. I worked on ASIC design as an undergraduate intern with Prof. Jaeha Kim.
+Previously, I received my B.S. in ECE from Seoul National University with highest honors in 2023. As an undergraduate, I worked on ASIC design as a research intern with Prof. Jaeha Kim.
 
 **Outside the lab:** I enjoy reading and learning new things — and I also love singing and working out!
